@@ -13,3 +13,4 @@ comment  : #
 - vcf.vcf       | chromosome, coordinate, ID_for_this_mutation, before_mutation, after_mutation
 
 (In both files, coordinates are ascending for each chromosome.)
+ 
